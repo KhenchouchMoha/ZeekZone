@@ -11,3 +11,9 @@ Statistics & Probability
 Linear Algebra
 Calculus
 ```
+
+# Future plans
+```
+Zeek Zone educatif website
+Zeek Zone mobile app
+```
