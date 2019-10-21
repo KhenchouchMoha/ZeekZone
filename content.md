@@ -17,3 +17,5 @@ Calculus
 Zeek Zone educatif website
 Zeek Zone mobile app
 ```
+# Youtube Channel
+[Zeek Zone](https://www.youtube.com/channel/UCoxitqi0kAXKo_3qMUkJnbw)
